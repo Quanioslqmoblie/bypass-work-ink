@@ -9,7 +9,7 @@
     // === TRANSLATIONS ===
     const translations = {
         vi: {
-            title: "Tool của Quân",
+            title: "Tool của SUS",
             pleaseSolveCaptcha: "Vui lòng giải CAPTCHA để tiếp tục",
             captchaSuccess: "CAPTCHA đã thành công",
             redirectingToWork: "Đang chuyển qua Work.ink...",
